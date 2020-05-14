@@ -26,4 +26,6 @@ Referências para instalação de outros softwares
 [Flameshot](https://www.edivaldobrito.com.br/capturador-de-telas-flameshot-no-ubuntu/)
 
 Outras configurações
-[Adicionar chave ssh no ssh-agent (autenticação via ssh com github, bitbucket, etc)](https://help.github.com/pt/enterprise/2.17/user/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- Restaurar chaves ssh para ~/.ssh
+- [Adicionar chave ssh no ssh-agent (autenticação via ssh com github, bitbucket, etc)](https://help.github.com/pt/enterprise/2.17/user/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- Restaurar configurações do vim, sublime, pycharm, dbeaver, postman e insomnia
