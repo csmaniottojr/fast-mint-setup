@@ -17,7 +17,8 @@ sudo apt install zsh -y
 # ohmyzsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
-# upgrade pip
+# pip
+sudo apt install python3-pip
 pip install --upgrade pip
 
 # pyenv
