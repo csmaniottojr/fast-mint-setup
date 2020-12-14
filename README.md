@@ -32,3 +32,4 @@ O script `setup.sh` contém comandos para a instalação dos seguintes softwares
 - Restaurar arquivo da VPN
 - [Adicionar chave ssh no ssh-agent (autenticação via ssh com github, bitbucket, etc)](https://help.github.com/pt/enterprise/2.17/user/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - Restaurar configurações do vim, sublime, pycharm, dbeaver, postman e insomnia
+- Adicionar atalho da tecla "Print screen" para o flameshot
