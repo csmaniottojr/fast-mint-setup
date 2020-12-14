@@ -33,6 +33,8 @@ sudo apt-get install libpq-dev -y
 sudo apt-get install python-dev python3-dev -y
 
 # snap (precisa reiniciar após a instalação)
+sudo rm /etc/apt/preferences.d/nosnap.pref
+sudo apt update
 sudo apt install snapd
 
 # spotify
@@ -53,3 +55,9 @@ sudo snap install sublime-text --classic
 
 # insomnia
 sudo snap install insomnia
+
+# mongodb client
+sudo snap install robo3t-snap
+
+# vpnc
+sudo apt install vpnc
