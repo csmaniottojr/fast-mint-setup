@@ -61,3 +61,6 @@ sudo snap install robo3t-snap
 
 # vpnc
 sudo apt install vpnc
+
+# remmina (rdp client)
+sudo snap install remmina
