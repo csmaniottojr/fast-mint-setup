@@ -24,8 +24,7 @@ O script `setup.sh` contém comandos para a instalação dos seguintes softwares
 **Referências para instalação de outros softwares**
 - [Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
 - [Docker-Compose](https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04-pt)
-- [Flameshot](https://www.edivaldobrito.com.br/capturador-de-telas-flameshot-no-ubuntu/)
-- Geckodriver. Baixar a última release em https://github.com/mozilla/geckodriver/releases e descompactá-la no diretório /usr/local/bin
+- Geckodriver. Baixar a última release em https://github.com/mozilla/geckodriver/releases e descompactá-la no diretório `/usr/local/bin`
 
 **Outras configurações**
 - Restaurar chaves ssh para `~/.ssh`
