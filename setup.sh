@@ -64,3 +64,6 @@ sudo apt install vpnc
 
 # remmina (rdp client)
 sudo snap install remmina
+
+# flameshot (a better screenshot software)
+sudo snap install flameshot
