@@ -67,3 +67,14 @@ sudo snap install remmina
 
 # flameshot (a better screenshot software)
 sudo snap install flameshot
+
+# nvm
+# https://github.com/nvm-sh/nvm#install--update-script
+# obter script atualizado
+source ~/.bashrc
+nvm list-remote
+nvm install <version>
+
+# yarn
+
+npm install -g yarn
