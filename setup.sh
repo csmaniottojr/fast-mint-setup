@@ -46,12 +46,12 @@ sudo snap install sublime-text --classic
 # flameshot (a better screenshot software)
 sudo snap install flameshot
 
+# vscode
+sudo snap install code --classic
+
 # nvm
 # https://github.com/nvm-sh/nvm#install--update-script
-# obter script atualizado
-source ~/.bashrc
-nvm list-remote
-nvm install <version>
+
 
 # yarn
 
